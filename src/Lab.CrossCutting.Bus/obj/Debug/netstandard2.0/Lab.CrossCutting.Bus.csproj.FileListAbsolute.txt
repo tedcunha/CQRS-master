@@ -1,0 +1,12 @@
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.CrossCutting.Bus\bin\Debug\netstandard2.0\Lab.CrossCutting.Bus.deps.json
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.CrossCutting.Bus\bin\Debug\netstandard2.0\Lab.CrossCutting.Bus.dll
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.CrossCutting.Bus\bin\Debug\netstandard2.0\Lab.CrossCutting.Bus.pdb
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.CrossCutting.Bus\obj\Debug\netstandard2.0\Lab.CrossCutting.Bus.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.CrossCutting.Bus\obj\Debug\netstandard2.0\Lab.CrossCutting.Bus.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.CrossCutting.Bus\obj\Debug\netstandard2.0\Lab.CrossCutting.Bus.AssemblyInfo.cs
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.CrossCutting.Bus\obj\Debug\netstandard2.0\Lab.CrossCutting.Bus.dll
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.CrossCutting.Bus\obj\Debug\netstandard2.0\Lab.CrossCutting.Bus.pdb
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.CrossCutting.Bus\obj\Debug\netstandard2.0\Lab.CrossCutting.Bus.csprojAssemblyReference.cache
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.CrossCutting.Bus\bin\Debug\netstandard2.0\Lab.Domain.Core.dll
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.CrossCutting.Bus\bin\Debug\netstandard2.0\Lab.Domain.Core.pdb
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.CrossCutting.Bus\obj\Debug\netstandard2.0\Lab.CrossCutting.Bus.csproj.CopyComplete

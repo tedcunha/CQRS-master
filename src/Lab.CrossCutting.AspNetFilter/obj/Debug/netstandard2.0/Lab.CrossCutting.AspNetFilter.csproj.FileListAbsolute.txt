@@ -1,0 +1,9 @@
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.CrossCutting.AspNetFilter\bin\Debug\netstandard2.0\Lab.CrossCutting.AspNetFilter.deps.json
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.CrossCutting.AspNetFilter\bin\Debug\netstandard2.0\Lab.CrossCutting.AspNetFilter.dll
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.CrossCutting.AspNetFilter\obj\Debug\netstandard2.0\Lab.CrossCutting.AspNetFilter.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.CrossCutting.AspNetFilter\obj\Debug\netstandard2.0\Lab.CrossCutting.AspNetFilter.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.CrossCutting.AspNetFilter\obj\Debug\netstandard2.0\Lab.CrossCutting.AspNetFilter.AssemblyInfo.cs
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.CrossCutting.AspNetFilter\bin\Debug\netstandard2.0\Lab.CrossCutting.AspNetFilter.pdb
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.CrossCutting.AspNetFilter\obj\Debug\netstandard2.0\Lab.CrossCutting.AspNetFilter.dll
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.CrossCutting.AspNetFilter\obj\Debug\netstandard2.0\Lab.CrossCutting.AspNetFilter.pdb
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.CrossCutting.AspNetFilter\obj\Debug\netstandard2.0\Lab.CrossCutting.AspNetFilter.csprojAssemblyReference.cache

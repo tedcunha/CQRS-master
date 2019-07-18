@@ -1,0 +1,14 @@
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.Application\bin\Debug\netstandard2.0\Lab.Application.deps.json
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.Application\bin\Debug\netstandard2.0\Lab.Application.dll
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.Application\bin\Debug\netstandard2.0\Lab.Application.pdb
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.Application\obj\Debug\netstandard2.0\Lab.Application.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.Application\obj\Debug\netstandard2.0\Lab.Application.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.Application\obj\Debug\netstandard2.0\Lab.Application.AssemblyInfo.cs
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.Application\obj\Debug\netstandard2.0\Lab.Application.dll
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.Application\obj\Debug\netstandard2.0\Lab.Application.pdb
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.Application\obj\Debug\netstandard2.0\Lab.Application.csprojAssemblyReference.cache
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.Application\bin\Debug\netstandard2.0\Lab.Domain.Core.dll
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.Application\bin\Debug\netstandard2.0\Lab.Domain.dll
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.Application\bin\Debug\netstandard2.0\Lab.Domain.pdb
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.Application\bin\Debug\netstandard2.0\Lab.Domain.Core.pdb
+C:\Users\rodri\Documents\Repositorio\Project Lab\ProjectLab\src\Lab.Application\obj\Debug\netstandard2.0\Lab.Application.csproj.CopyComplete
